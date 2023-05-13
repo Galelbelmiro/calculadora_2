@@ -1,0 +1,16 @@
+/* RESETANDO ESTILO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*CENTRALIZANDO A CALCULADORA NO CENTRO, DEFININDO COR DE FUNDO E DANDO ESPAÇAMENTO*/
+body {
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+}
